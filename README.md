@@ -29,8 +29,10 @@
   5) If gets solution then return 1 and print the solution for given Sudoku.
   6) If no solution possible then return 0.
   7) If there is some error in input then return -1.
+ 
+**Dont forget to give star if you like it and feel useful :)**
 
-#### Working Application 
+### Working Application 
 
 ##### 4X4 Sudoku:
 
