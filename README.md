@@ -46,4 +46,4 @@
 
 ##### 15X15 Sudoku:
 
-<img src="15X15.png" width="750" height="380"/>
+<img src="15x15.png" width="750" height="380"/>
