@@ -38,12 +38,12 @@
 
 ##### 9X9 Sudoku:
 
-<img src="gif/Insertionsort.gif" width="750" height="380"/>
+<img src="9X9.png" width="750" height="380"/>
 
 ##### 12X12 Sudoku:
 
-<img src="gif/Selectionsort.gif" width="750" height="380"/>
+<img src="12X12.png" width="750" height="380"/>
 
 ##### 15X15 Sudoku:
 
-<img src="gif/Radixsort.gif" width="750" height="380"/>
+<img src="15X15.png" width="750" height="380"/>
