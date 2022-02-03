@@ -34,7 +34,7 @@
 
 ##### 4X4 Sudoku:
 
-<img src="gif/Bubblesort.gif" width="750" height="380"/>
+<img src="4X4.png" width="750" height="380"/>
 
 ##### 9X9 Sudoku:
 
