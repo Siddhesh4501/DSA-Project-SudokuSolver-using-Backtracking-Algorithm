@@ -1,7 +1,7 @@
 ### Project Name:
 # DSA-Project-SudokuSolver-using-Backtracking-Algorithm
 
-### Hello guys, Welocome to our Sudoku-Solver Programme.
+### Hello guys, Welcome to our Sudoku-Solver Programme.
 
 
 - This programme helps you to find solution for any size of Sudoku. Not limited by size of Sudoku :)
