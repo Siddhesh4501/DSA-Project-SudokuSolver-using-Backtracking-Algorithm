@@ -5,8 +5,8 @@
 
 
 - This programme helps you to find solution for any size of Sudoku. Not limited by size of Sudoku :)
-- Its time complexity is O(n^3) .
-- Though it is O(n^3). Still you get solution much fast due to backtracking :)
+- Its time complexity is O(n^m) (n-possible values in single block, m-no. of empty block to fill).
+- Though it is O(n^m). Still you get solution much fast due to backtracking :)
 
 
 - Key Features:
